@@ -50,7 +50,7 @@ Uses `with` statements for automatic file closing and `os.path` for existence ch
 ## 🚀 Getting Started
 
 ### Requirements:  
-- Python 3.6+  
+- Python 3.6+ (tested on 1.13.1) 
 
 ### How to Run:  
 ```bash
